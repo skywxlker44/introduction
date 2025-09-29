@@ -71,8 +71,9 @@ introduction/
 
 ---
 
-## 📬 Контакты
+## 📬 Ссылки
 
 - 💬 Telegram: `@skywalker44`  
-- 🌐 GitHub: [github.com/skywxlker44](https://github.com/skywxlker44)  
+- 🌐 GitHub: [github.com/skywxlker44](https://github.com/skywxlker44)
+- 🎓 CS50p Certificate: https://certificates.cs50.io/2f7f3ed7-2b63-43fa-aaf8-0e58e926bf77.pdf?size=letter
 
